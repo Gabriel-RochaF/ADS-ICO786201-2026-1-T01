@@ -6,3 +6,5 @@ Esta é um atualização local do README
 Uma alteração remota no README
 
 Um conflito local
+
+Um conflito remoto
